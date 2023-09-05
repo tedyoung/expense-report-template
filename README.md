@@ -3,10 +3,15 @@
 This is the Java-only version of the kata from https://github.com/christianhujer/expensereport.
 The relevant parts of the README are below.
 
-## Changes I Made
+## Changes I (Ted aka jitterted) Made
 
 I've updated it to the latest JUnit, added the AssertJ assertion library, and bumped the Java version to 17.
 I also split the classes/enums into separate files and added a starter test method.
+
+## Commit Notation
+
+You might try using Arlo Belshee's Commit Notation and make the smallest commits you can.
+See https://github.com/RefactoringCombos/ArlosCommitNotation/blob/main/Learning%20Path.md on how to get started.
 
 ----
 
